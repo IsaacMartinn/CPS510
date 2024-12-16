@@ -14,3 +14,5 @@ Technologies Used:
 - APIs: TMDB API for movie data integration
 - Development Tools: Unix Shell for command-line UI, Flask-Session for user session management
 <img width="1668" alt="login" src="https://github.com/user-attachments/assets/d067996a-b18a-4253-92b4-d87f9fae70b3" />
+<img width="1677" alt="home" src="https://github.com/user-attachments/assets/838d8a1d-ef00-4b4f-acf6-23a4b74d1bff" />
+<img width="1645" alt="home2" src="https://github.com/user-attachments/assets/358960f1-6a9e-4df4-986e-6926ae24f0d9" />
