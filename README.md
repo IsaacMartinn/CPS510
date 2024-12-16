@@ -13,4 +13,4 @@ Technologies Used:
 - Database: Oracle DB, SQL
 - APIs: TMDB API for movie data integration
 - Development Tools: Unix Shell for command-line UI, Flask-Session for user session management
-![Uploading login.jpg…]()
+<img width="1668" alt="login" src="https://github.com/user-attachments/assets/d067996a-b18a-4253-92b4-d87f9fae70b3" />
