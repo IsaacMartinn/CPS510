@@ -8,10 +8,8 @@ from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 import requests
 
-# USERNAME = os.environ['USERNAME']
-# PASSWORD = os.environ['PASSWORD']
-USERNAME = 'inmartin'
-PASSWORD = '01127703'
+USERNAME = os.environ['USERNAME']
+PASSWORD = os.environ['PASSWORD']
 
 API_KEY = "1da3cf985092bd6072ac2c523c02b371"
 TMDB_URL = "https://api.themoviedb.org/3/search/movie"
